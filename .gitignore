@@ -1,0 +1,6 @@
+__pycache__/
+services/__pycache__/
+venv/
+.env
+.DS_Store
+Thumbs.db
